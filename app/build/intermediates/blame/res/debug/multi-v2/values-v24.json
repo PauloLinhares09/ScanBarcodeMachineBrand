@@ -4,7 +4,7 @@
             "outputFile": "/Users/paulolinhares/AndroidStudioProjects/TestScan/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml",
             "map": [
                 {
-                    "source": "/Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/812f9eac9eea9622faf4f6a961f2bc0b/res/values-v24/values-v24.xml",
+                    "source": "/Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/82c15510b5c3fa2b730c97eb3b22a080/res/values-v24/values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

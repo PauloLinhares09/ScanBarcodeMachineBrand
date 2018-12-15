@@ -2,16 +2,16 @@
 manifest
 ADDED from /Users/paulolinhares/AndroidStudioProjects/TestScan/app/src/main/AndroidManifest.xml:2:1-20:12
 INJECTED from /Users/paulolinhares/AndroidStudioProjects/TestScan/app/src/main/AndroidManifest.xml:2:1-20:12
-MERGED from [com.android.support:support-v4:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/39982cd64a12ebe9e03f4b76aba409ef/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/812f9eac9eea9622faf4f6a961f2bc0b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/34fe2a4650d346839093f773fde28514/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/cbd575d7bfab7875bd69f8a623d460c1/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/55ea717edb75351a1d34a384940914eb/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d9f88d98c7bfa56fdaebbc6605af8e5c/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/968324e01030e194cc1d90a01f73a6fb/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/85e7f393a192ac8a78bafe047458d99d/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ab9e80bcf0a1c3895eab6e77c42e4e01/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4d75235aa462d7836ca0e353d4553fd0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/ce100111a1c3aa23339e14388a298ff8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/82c15510b5c3fa2b730c97eb3b22a080/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a01ab0d4e6a0bfcd586e0eb4a57006b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3e8ed0b64692de59f4a08ba1048b290b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/02cc60d5ea5846aa88444801f44cbec9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ead2e85e52336a0458e8b148ec38ffa0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c414aebf7658904ab6ab122e602697c1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bebb052ceaeb3f0b41af84af628541d2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b66ddd837e9201d9100d6a223cef318b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3a7d60577f82ffaed344c7d8a40d8d75/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/paulolinhares/AndroidStudioProjects/TestScan/app/src/main/AndroidManifest.xml:2:1-20:12
 	package
 		ADDED from /Users/paulolinhares/AndroidStudioProjects/TestScan/app/src/main/AndroidManifest.xml:3:5-35
@@ -49,26 +49,26 @@ uses-sdk
 INJECTED from /Users/paulolinhares/AndroidStudioProjects/TestScan/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/paulolinhares/AndroidStudioProjects/TestScan/app/src/main/AndroidManifest.xml
 INJECTED from /Users/paulolinhares/AndroidStudioProjects/TestScan/app/src/main/AndroidManifest.xml
-MERGED from [com.android.support:support-v4:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/39982cd64a12ebe9e03f4b76aba409ef/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/39982cd64a12ebe9e03f4b76aba409ef/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/812f9eac9eea9622faf4f6a961f2bc0b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-media-compat:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/812f9eac9eea9622faf4f6a961f2bc0b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/34fe2a4650d346839093f773fde28514/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/34fe2a4650d346839093f773fde28514/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/cbd575d7bfab7875bd69f8a623d460c1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/cbd575d7bfab7875bd69f8a623d460c1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/55ea717edb75351a1d34a384940914eb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/55ea717edb75351a1d34a384940914eb/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d9f88d98c7bfa56fdaebbc6605af8e5c/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d9f88d98c7bfa56fdaebbc6605af8e5c/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/968324e01030e194cc1d90a01f73a6fb/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/968324e01030e194cc1d90a01f73a6fb/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/85e7f393a192ac8a78bafe047458d99d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/85e7f393a192ac8a78bafe047458d99d/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ab9e80bcf0a1c3895eab6e77c42e4e01/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/ab9e80bcf0a1c3895eab6e77c42e4e01/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4d75235aa462d7836ca0e353d4553fd0/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/4d75235aa462d7836ca0e353d4553fd0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/ce100111a1c3aa23339e14388a298ff8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/ce100111a1c3aa23339e14388a298ff8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/82c15510b5c3fa2b730c97eb3b22a080/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/82c15510b5c3fa2b730c97eb3b22a080/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a01ab0d4e6a0bfcd586e0eb4a57006b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/a01ab0d4e6a0bfcd586e0eb4a57006b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3e8ed0b64692de59f4a08ba1048b290b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/3e8ed0b64692de59f4a08ba1048b290b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/02cc60d5ea5846aa88444801f44cbec9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/02cc60d5ea5846aa88444801f44cbec9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ead2e85e52336a0458e8b148ec38ffa0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ead2e85e52336a0458e8b148ec38ffa0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c414aebf7658904ab6ab122e602697c1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c414aebf7658904ab6ab122e602697c1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bebb052ceaeb3f0b41af84af628541d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/bebb052ceaeb3f0b41af84af628541d2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b66ddd837e9201d9100d6a223cef318b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/b66ddd837e9201d9100d6a223cef318b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3a7d60577f82ffaed344c7d8a40d8d75/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3a7d60577f82ffaed344c7d8a40d8d75/AndroidManifest.xml:20:5-44
 INJECTED from /Users/paulolinhares/AndroidStudioProjects/TestScan/app/src/main/AndroidManifest.xml
 INJECTED from /Users/paulolinhares/AndroidStudioProjects/TestScan/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion

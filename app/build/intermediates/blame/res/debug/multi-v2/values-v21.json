@@ -4,7 +4,7 @@
             "outputFile": "/Users/paulolinhares/AndroidStudioProjects/TestScan/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "/Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/812f9eac9eea9622faf4f6a961f2bc0b/res/values-v21/values-v21.xml",
+                    "source": "/Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/82c15510b5c3fa2b730c97eb3b22a080/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,5,8,11",
                         "startColumns": "4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d9f88d98c7bfa56fdaebbc6605af8e5c/res/values-v21/values-v21.xml",
+                    "source": "/Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ead2e85e52336a0458e8b148ec38ffa0/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

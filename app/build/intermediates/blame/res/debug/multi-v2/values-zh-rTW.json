@@ -4,7 +4,7 @@
             "outputFile": "/Users/paulolinhares/AndroidStudioProjects/TestScan/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml",
             "map": [
                 {
-                    "source": "/Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/d9f88d98c7bfa56fdaebbc6605af8e5c/res/values-zh-rTW/values-zh-rTW.xml",
+                    "source": "/Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ead2e85e52336a0458e8b148ec38ffa0/res/values-zh-rTW/values-zh-rTW.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
