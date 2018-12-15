@@ -1,4 +1,4 @@
-#Sat Dec 15 16:11:01 BRST 2018
+#Sat Dec 15 17:04:36 BRST 2018
 base.0=/Users/paulolinhares/AndroidStudioProjects/TestScan/app/build/intermediates/transforms/dexMerger/debug/2
 path.0=classes.dex
 renamed.0=classes.dex

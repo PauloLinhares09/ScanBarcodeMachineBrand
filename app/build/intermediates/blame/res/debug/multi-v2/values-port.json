@@ -4,7 +4,7 @@
             "outputFile": "/Users/paulolinhares/AndroidStudioProjects/TestScan/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/ead2e85e52336a0458e8b148ec38ffa0/res/values-port/values-port.xml",
+                    "source": "/Users/paulolinhares/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/30a89eace6618d12f7e9531d998a9a52/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

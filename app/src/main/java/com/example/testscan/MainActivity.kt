@@ -7,13 +7,14 @@ import android.content.Intent
 import android.content.IntentFilter
 import android.device.ScanDevice
 import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
 import android.view.View
 import android.widget.CheckBox
 import android.widget.CompoundButton
 import android.widget.CompoundButton.OnCheckedChangeListener
 import android.widget.EditText
 
-class MainActivity : Activity() {
+class MainActivity : AppCompatActivity() {
     internal var sm: ScanDevice? = null
     private var barcodeStr: String? = null
     private var showScanResult: EditText? = null
@@ -44,6 +45,7 @@ class MainActivity : Activity() {
         setContentView(R.layout.activity_main)
         sm = ScanDevice()
         val ch = findViewById<View>(R.id.checkBox1) as CheckBox
+
         if (sm!!.outScanMode == 1) {
             ch.isChecked = true
         } else {
